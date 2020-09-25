@@ -137,7 +137,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeRestAPI.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Twitter/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Twitter/secret.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Twitter/src/main/java/tweet/TweetAPIClient.java" afterDir="false" />
@@ -255,7 +254,24 @@
       <recent name="$PROJECT_DIR$/Twitter" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TweetTest.testGetTweet">
+  <component name="RunManager" selected="TestNG.TweetTest.testLookUpTweet">
+    <configuration name="TweetTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tweetAPIClientTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tweetAPIClientTest" />
+      <option name="MAIN_CLASS_NAME" value="tweetAPIClientTest.TweetTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TweetTest.TestCreateTweet" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Twitter" />
       <extension name="coverage">
@@ -267,42 +283,6 @@
       <option name="PACKAGE_NAME" value="tweetAPIClientTest" />
       <option name="MAIN_CLASS_NAME" value="tweetAPIClientTest.TweetTest" />
       <option name="METHOD_NAME" value="TestCreateTweet" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TweetTest.TestReTweet" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Twitter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tweetAPIClientTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tweetAPIClientTest" />
-      <option name="MAIN_CLASS_NAME" value="tweetAPIClientTest.TweetTest" />
-      <option name="METHOD_NAME" value="TestReTweet" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TweetTest.TestReplyTweet" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Twitter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tweetAPIClientTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tweetAPIClientTest" />
-      <option name="MAIN_CLASS_NAME" value="tweetAPIClientTest.TweetTest" />
-      <option name="METHOD_NAME" value="TestReplyTweet" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -346,13 +326,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TweetTest.testLookUpTweet" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tweetAPIClientTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tweetAPIClientTest" />
+      <option name="MAIN_CLASS_NAME" value="tweetAPIClientTest.TweetTest" />
+      <option name="METHOD_NAME" value="testLookUpTweet" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TweetTest.testLookUpTweet" />
+        <item itemvalue="TestNG.TweetTest" />
         <item itemvalue="TestNG.TweetTest.testGetTweet" />
         <item itemvalue="TestNG.TweetTest.testDelete" />
         <item itemvalue="TestNG.TweetTest.TestCreateTweet" />
-        <item itemvalue="TestNG.TweetTest.TestReplyTweet" />
-        <item itemvalue="TestNG.TweetTest.TestReTweet" />
       </list>
     </recent_temporary>
   </component>
@@ -376,29 +374,29 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="556" y="404" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1600310977071" />
-    <state width="1628" height="454" key="GridCell.Tab.0.bottom" timestamp="1601056392541">
+    <state width="1628" height="401" key="GridCell.Tab.0.bottom" timestamp="1601058361157">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1388" height="7" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601052400454" />
-    <state width="1628" height="454" key="GridCell.Tab.0.bottom/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601056392541" />
+    <state width="1628" height="401" key="GridCell.Tab.0.bottom/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601058361157" />
     <state width="1028" height="81" key="GridCell.Tab.0.bottom/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846424" />
-    <state width="1628" height="454" key="GridCell.Tab.0.center" timestamp="1601056392540">
+    <state width="1628" height="401" key="GridCell.Tab.0.center" timestamp="1601058361155">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1388" height="7" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601052400453" />
-    <state width="1628" height="454" key="GridCell.Tab.0.center/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601056392540" />
+    <state width="1628" height="401" key="GridCell.Tab.0.center/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601058361155" />
     <state width="1028" height="81" key="GridCell.Tab.0.center/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846423" />
-    <state width="1628" height="454" key="GridCell.Tab.0.left" timestamp="1601056392539">
+    <state width="1628" height="401" key="GridCell.Tab.0.left" timestamp="1601058361154">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1388" height="7" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601052400453" />
-    <state width="1628" height="454" key="GridCell.Tab.0.left/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601056392539" />
+    <state width="1628" height="401" key="GridCell.Tab.0.left/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601058361154" />
     <state width="1028" height="81" key="GridCell.Tab.0.left/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846422" />
-    <state width="1628" height="454" key="GridCell.Tab.0.right" timestamp="1601056392540">
+    <state width="1628" height="401" key="GridCell.Tab.0.right" timestamp="1601058361156">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1388" height="7" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601052400454" />
-    <state width="1628" height="454" key="GridCell.Tab.0.right/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601056392540" />
+    <state width="1628" height="401" key="GridCell.Tab.0.right/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601058361156" />
     <state width="1028" height="81" key="GridCell.Tab.0.right/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846423" />
     <state x="250" y="216" key="IDE.errors.dialog" timestamp="1600312766858">
       <screen x="0" y="23" width="1680" height="1027" />

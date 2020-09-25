@@ -17,7 +17,7 @@ public class TweetAPIClient extends CommonAPI {
 
     private final String UPDATE_USER_TWEET_ENDPOINT="";
 
-    private final String READ_USER_TWEET_ENDPOINT="";
+    private final String LOOKUP_USER_TWEET_ENDPOINT="/statuses/lookup.json";
 
     private final String RETWEET_USER_TWEET_ENDPOINT="statuses/retweet/1306802875448795136.json";
 
@@ -76,6 +76,17 @@ public class TweetAPIClient extends CommonAPI {
                 .then();
     }
 
+    // Get a LOOKUP TweetS
+
+
+
+
+    public ValidatableResponse lookUpTweet(Long tweetId1, long tweetId2, long tweetId3) {
+        return given().auth().oauth(apiKey, apiSecretKey, accessToken, accessTokenSecret)
+                .queryParam("id", tweetId1, tweetId2, tweetId3)
+                .when().get(baseUrl + LOOKUP_USER_TWEET_ENDPOINT)
+                .then();
+    }
 
 
 

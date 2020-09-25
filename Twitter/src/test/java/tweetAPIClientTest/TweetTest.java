@@ -71,6 +71,18 @@ public class TweetTest {
         System.out.println(tweet);
     }
 
+    @Test
+    public void testLookUpTweet(){
+        String tweet="updating my second tweet";
+        ValidatableResponse response=this.tweetAPIClient.lookUpTweet(1306351439917338624l,1291267565306679296l,1309130468357533700l);
+// Verify that the tweet was successfully deleted
+        response.statusCode(200);
+//        String actualTweet=response.extract().body().path("text");
+//        org.junit.Assert.assertEquals(tweet,actualTweet);
+        //System.out.println(actualTweet);
+        System.out.println(tweet);
+    }
+
 
 
 }
