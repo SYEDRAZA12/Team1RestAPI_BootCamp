@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9729ae9-5cb0-4989-9f73-55b98afb0007" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FirstMavenPrp2020/FirstMavenPrp2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/src/main/java/search/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/src/main/java/search/SearchWebElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/src/test/java/features/Search.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/src/test/java/stepDefinations/SearchStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/src/test/java/testRunner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/target/cucumber-html-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/target/cucumber-pretty.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/target/cucumber-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/target/cucumber-usage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/target/cucumber.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/BrowserDriver/mac/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/BrowserDriver/mac/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/BrowserDriver/windows/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/BrowserDriver/windows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/BrowserDriver/windows/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/src/main/java/databases/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/src/main/java/databases/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/src/main/java/secret.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/src/main/java/utility/ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/src/main/java/utility/WriteExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/MentoringBDD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/target/MentoringBDD-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringBDD/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/src/main/java/home/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/src/main/java/home/HomePageWebElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/src/test/java/feature/Search.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/src/test/java/stepdefinations/SearchStepDefination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/target/cucumber-reports/cucumber-pretty.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/target/cucumber-reports/cucumber-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/target/cucumber-reports/cucumber-usage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/target/cucumber-reports/cucumber.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/target/cucumber-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/BrowserDriver/mac/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/BrowserDriver/mac/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/BrowserDriver/windows/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/BrowserDriver/windows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/BrowserDriver/windows/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/src/main/java/common/WebAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/src/main/java/databases/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/src/main/java/databases/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/src/main/java/utility/ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/src/main/java/utility/WriteExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/PracticeAgainBDD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeAgainBDD/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Amazon/src/main/java/home/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Amazon/src/main/java/home/HomePageWebElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Amazon/src/test/java/features/BestSeller.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Amazon/src/test/java/features/HomePage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Amazon/src/test/java/features/HomePageBackground.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Amazon/src/test/java/features/Search.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Amazon/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Amazon/src/test/java/stepdefinitions/HomePageStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/BrowserDriver/mac/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/BrowserDriver/mac/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/BrowserDriver/windows/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/BrowserDriver/windows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/BrowserDriver/windows/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/common/WebAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/databases/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/databases/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/secret.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/utility/ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/utility/WriteExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeBDD/PracticeBDD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeRestAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Twitter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Twitter/secret.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Twitter/src/main/java/tweet/TweetAPIClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Twitter/src/test/java/tweetAPIClientTest/TweetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/Amazon-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/Amazon Automation Test (0)/Amazon Home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/Amazon Automation Test (0)/Amazon Home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/Amazon Automation Test/Amazon Home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/Amazon Automation Test/Amazon Home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/junitreports/TEST-home.TestDropDownMenu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/junitreports/TEST-search.TestSearch.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test (0)/Amazon Home.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test (0)/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test (0)/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test (0)/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test (0)/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test (0)/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test (0)/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test (0)/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test (0)/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test (0)/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test (0)/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test/Amazon Home.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/Amazon Automation Test/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/test-classes/search/TestSearch$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/target/test-classes/search/TestSearch$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Amazon/target/test-classes/search/TestSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/target/test-classes/search/TestSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generic/target/classes/utility/ConnectDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Generic/target/classes/utility/ConnectDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generic/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hcSVxTRN70f3AyMBJ8bGfuJoSZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Twitter" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="base" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Twitter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TweetTest.testGetTweet">
+    <configuration name="TweetTest.TestCreateTweet" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tweetAPIClientTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tweetAPIClientTest" />
+      <option name="MAIN_CLASS_NAME" value="tweetAPIClientTest.TweetTest" />
+      <option name="METHOD_NAME" value="TestCreateTweet" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetTest.TestReTweet" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tweetAPIClientTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tweetAPIClientTest" />
+      <option name="MAIN_CLASS_NAME" value="tweetAPIClientTest.TweetTest" />
+      <option name="METHOD_NAME" value="TestReTweet" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetTest.TestReplyTweet" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tweetAPIClientTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tweetAPIClientTest" />
+      <option name="MAIN_CLASS_NAME" value="tweetAPIClientTest.TweetTest" />
+      <option name="METHOD_NAME" value="TestReplyTweet" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetTest.testDelete" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tweetAPIClientTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tweetAPIClientTest" />
+      <option name="MAIN_CLASS_NAME" value="tweetAPIClientTest.TweetTest" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetTest.testGetTweet" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tweetAPIClientTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tweetAPIClientTest" />
+      <option name="MAIN_CLASS_NAME" value="tweetAPIClientTest.TweetTest" />
+      <option name="METHOD_NAME" value="testGetTweet" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TweetTest.testGetTweet" />
+        <item itemvalue="TestNG.TweetTest.testDelete" />
+        <item itemvalue="TestNG.TweetTest.TestCreateTweet" />
+        <item itemvalue="TestNG.TweetTest.TestReplyTweet" />
+        <item itemvalue="TestNG.TweetTest.TestReTweet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9729ae9-5cb0-4989-9f73-55b98afb0007" name="Default Changelist" comment="" />
+      <created>1600308919676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600308919676</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="455" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600310975382">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="354" y="455" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1600310975382" />
+    <state x="556" y="404" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1600310977071">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="556" y="404" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1600310977071" />
+    <state width="1628" height="454" key="GridCell.Tab.0.bottom" timestamp="1601056392541">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1388" height="7" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601052400454" />
+    <state width="1628" height="454" key="GridCell.Tab.0.bottom/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601056392541" />
+    <state width="1028" height="81" key="GridCell.Tab.0.bottom/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846424" />
+    <state width="1628" height="454" key="GridCell.Tab.0.center" timestamp="1601056392540">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1388" height="7" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601052400453" />
+    <state width="1628" height="454" key="GridCell.Tab.0.center/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601056392540" />
+    <state width="1028" height="81" key="GridCell.Tab.0.center/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846423" />
+    <state width="1628" height="454" key="GridCell.Tab.0.left" timestamp="1601056392539">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1388" height="7" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601052400453" />
+    <state width="1628" height="454" key="GridCell.Tab.0.left/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601056392539" />
+    <state width="1028" height="81" key="GridCell.Tab.0.left/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846422" />
+    <state width="1628" height="454" key="GridCell.Tab.0.right" timestamp="1601056392540">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1388" height="7" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601052400454" />
+    <state width="1628" height="454" key="GridCell.Tab.0.right/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601056392540" />
+    <state width="1028" height="81" key="GridCell.Tab.0.right/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846423" />
+    <state x="250" y="216" key="IDE.errors.dialog" timestamp="1600312766858">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="250" y="216" key="IDE.errors.dialog/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1600312766858" />
+    <state x="262" y="116" key="Maven.ArtifactSearchDialog" timestamp="1600312446616">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="262" y="116" key="Maven.ArtifactSearchDialog/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1600312446616" />
+    <state x="36" y="90" key="new project wizard" timestamp="1600309711702">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="36" y="90" key="new project wizard/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1600309711702" />
+  </component>
+</project>
