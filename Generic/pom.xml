@@ -3,13 +3,14 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>PracticeRestAPI</artifactId>
-        <groupId>org.example</groupId>
+        <artifactId>RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020</artifactId>
+        <groupId>com.qa</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>Generic</artifactId>
+
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
@@ -120,7 +121,6 @@
         </pluginManagement>
 
     </build>
-
 
 
 </project>
