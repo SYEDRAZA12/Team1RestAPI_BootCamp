@@ -22,12 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9729ae9-5cb0-4989-9f73-55b98afb0007" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twitter/secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Twitter/secret.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twitter/src/test/java/tweetAPIClientTest/TweetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Twitter/src/test/java/tweetAPIClientTest/TweetTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="d9729ae9-5cb0-4989-9f73-55b98afb0007" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
