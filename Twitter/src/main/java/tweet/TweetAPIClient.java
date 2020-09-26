@@ -23,7 +23,7 @@ public class TweetAPIClient extends CommonAPI {
 
 
 
-    // Create a Tweet From user Twiter
+    // Create a Tweet From user Twitter
     public ValidatableResponse createTweet(String tweet){
 
         return given().auth().oauth(apiKey,apiSecretKey,accessToken,accessTokenSecret)
@@ -38,7 +38,7 @@ public class TweetAPIClient extends CommonAPI {
 
         return given().auth().oauth(apiKey,apiSecretKey,accessToken,accessTokenSecret)
                 .param("status", replyTweet)
-                .param("in_reply_to_status_id","1309522298861432832")
+                .param("in_reply_to_status_id","1309378350012604417")
                 .when().post(baseUrl + REPLY_USER_TWEET_ENDPOINT)
                 .then();
 
