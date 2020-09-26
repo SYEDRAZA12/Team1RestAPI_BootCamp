@@ -20,414 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9729ae9-5cb0-4989-9f73-55b98afb0007" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BDDWebAutomationFramework_Team1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FrameWork_Practice/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FrameWork_Practice/Generic/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/NewYorkTimes-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/TMobile-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/Wlmart-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/BrowserDrivers/mac/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/BrowserDrivers/windows/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/src/main/java/dataBases/ConnectToMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/src/main/java/dataBases/ConnectToSqlDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/src/main/java/dataBases/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/src/main/java/dataBases/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/src/main/java/utility/ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/src/main/java/utility/WriteExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/target/surefire-reports/2020-09-05T01-17-10_370-jvmRun1.dump" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/Generic/target/surefire-reports/2020-09-05T01-17-10_370-jvmRun1.dumpstream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFindStoreTest (200905010609-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFindStoreTest (200905010706-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFindStoreTest (200905010816-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFindStoreTest (200905011402-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFindStoreTest (200905011428-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFindStoreTest (200905011517-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFindStoreTest (200905011601-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFindStoreTest (200905011637-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFindStoreTest (200905011729-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFindStoreTest (200905013227-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButton1Test (200905153620-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButtonTest (200905004013-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButtonTest (200905004047-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButtonTest (200905004144-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButtonTest (200905004230-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButtonTest (200905004425-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButtonTest (200905004453-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButtonTest (200905011740-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButtonTest (200905013244-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButtonTest (200905152535-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButtonTest (200905152758-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButtonTest (200905152815-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButtonTest (200905152911-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setFoodButtonTest (200905153243-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setSevenRewardsTest (200905001646-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setSevenRewardsTest (200905001852-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/Screenshots/setSevenRewardsTest (200905152552-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/report-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/src/main/java/home/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/src/main/java/home/HomePageWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/src/test/java/homeTest/HomePageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/src/test/resources/SevenElevenRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/TestSuite/SevenEleven Home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/TestSuite/SevenEleven Home.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/old/TestSuite/SevenEleven Home.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/old/TestSuite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/old/TestSuite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/old/TestSuite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/old/TestSuite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/old/TestSuite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/old/TestSuite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/test-classes/SevenElevenRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LearnBDDWebAutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCashRewardsButton2Test (200904023533-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCashRewardsButton2Test (200904024112-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCashRewardsButton2Test (200904024138-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCashRewardsButton2Test (200904024204-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCashRewardsButton2Test (200904024255-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCashRewardsButton2Test (200904143048-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCreditCardValidationTest (200904020017-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCreditCardValidationTest (200904020100-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCreditCardValidationTest (200904020214-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCreditCardValidationTest (200904020326-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCreditCardValidationTest (200904020358-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCreditCardValidationTest (200904020750-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCreditCardValidationTest (200904021028-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCreditCardValidationTest (200904021102-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/Screenshots/setCreditCardValidationTest (200904021147-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/report-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/src/main/java/home/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/src/main/java/home/HomeWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/src/test/java/homeTest/HomePageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/src/test/resources/BankOfAmericaRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/TestSuite/BankOfAmerica Home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/TestSuite/BankOfAmerica Home.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/TestSuite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/junitreports/TEST-homeTest.HomePageTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/old/TestSuite/BankOfAmerica Home.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/old/TestSuite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/old/TestSuite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/old/TestSuite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/old/TestSuite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/old/TestSuite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/old/TestSuite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/old/TestSuite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/old/TestSuite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/old/TestSuite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/old/TestSuite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/surefire-reports/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/BankOfAmerica/target/test-classes/BankOfAmericaRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/BrowserDrivers/mac/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/src/main/java/dataBases/ConnectToMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/src/main/java/dataBases/ConnectToSqlDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/src/main/java/dataBases/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/src/main/java/dataBases/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/src/main/java/utility/ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/src/main/java/utility/WriteExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/target/surefire-reports/2020-09-04T02-11-25_077-jvmRun1.dump" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/Generic/target/surefire-reports/2020-09-04T02-11-25_077-jvmRun1.dumpstream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice-Framework-Practice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/BrowserDriver/mac/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/BrowserDriver/windows/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/sqlDriver/mysql-connector-java-8.0.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/src/main/java/databases/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/src/main/java/databases/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/src/main/java/utility/ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/src/main/java/utility/WriteExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/src/secret.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/target/classes/META-INF/Generic.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/Screenshots/setSearchFieldTest (200903210033-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/Screenshots/setSearchFieldTest (200903210140-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/Screenshots/setSearchItemTest (200903211016-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/Screenshots/setSearchItemTest (200903213642-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/Screenshots/setSearchItemTest (200903213710-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/Screenshots/setSearchItemTest (200903213802-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/Screenshots/setSearchItemTest (200903214002-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/Screenshots/setSearchItemTest (200903214527-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/src/main/java/home/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/src/main/java/home/HomeWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/src/test/java/homeTest/HomePageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/src/test/resources/WalmartRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/Walmart/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_For_My_Next_Mentoring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ResrAPI_Mentoring_Training/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ResrAPI_Mentoring_Training/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ResrAPI_Mentoring_Training/Generic/src/main/java/base/RestAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ResrAPI_Mentoring_Training/Twitter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ResrAPI_Mentoring_Training/Twitter/secret.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ResrAPI_Mentoring_Training/Twitter/src/main/java/tweet/TweetAPIClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ResrAPI_Mentoring_Training/Twitter/src/test/java/tweettest/TweetAPIClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_github_fge_uri_template_0_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_github_java_json_tools_jackson_coreutils_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_github_java_json_tools_json_schema_core_1_2_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_github_java_json_tools_json_schema_validator_2_2_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_github_scribejava_scribejava_apis_2_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_github_scribejava_scribejava_core_2_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_googlecode_libphonenumber_libphonenumber_8_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_mashape_unirest_unirest_java_1_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__io_rest_assured_json_path_4_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__io_rest_assured_json_schema_validator_4_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__io_rest_assured_rest_assured_4_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__io_rest_assured_rest_assured_all_4_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__io_rest_assured_rest_assured_common_4_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__io_rest_assured_xml_path_4_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__javax_mail_mailapi_1_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__joda_time_joda_time_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_codehaus_groovy_groovy_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_json_json_20200518.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_mozilla_rhino_1_7_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/libraries/Maven__org_yaml_snakeyaml_1_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/Generic/Generic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_AutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020/Twitter/Twitter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_Automation_Framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_Automation_Framework/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_Automation_Framework/Generic/src/main/java/base/RestAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_Automation_Framework/Twitter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_Automation_Framework/Twitter/secret.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_Automation_Framework/Twitter/src/main/java/tweet/TweetAPIClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_Automation_Framework/Twitter/src/test/java/tweettest/TweetAPIClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_FrameWork_BootCamp_Project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_FrameWork_BootCamp_Project/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_FrameWork_BootCamp_Project/Generic/src/main/java/base/RestAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_FrameWork_BootCamp_Project/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_FrameWork_BootCamp_Project/twitter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_FrameWork_BootCamp_Project/twitter/secret.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_FrameWork_BootCamp_Project/twitter/src/main/java/tweet/TweetAPIClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestAPI_FrameWork_BootCamp_Project/twitter/src/test/java/tweettest/TweetAPIClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WlmartFrameWork/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WlmartFrameWork/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/Screenshots/ebayLinksActivlinksTest (200909213810-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/Screenshots/setBoatTest (200907234614-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/Screenshots/setBoatTest (200907234723-0400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/src/main/java/home/Deno.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstraction" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstraction" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodingExam" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingExam" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/Surefire suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/Surefire suite/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-accountTest.CreateAccountActionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-accountTest.CreateAccountActionTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-accountTest.CreateAccountTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-accountTest.CreateAccountTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-accountTest.SigningClassTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-accountTest.SigningClassTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.AmazonBasicsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.AmazonBasicsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.BestSellerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.BestSellerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.CouponsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.CouponsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.CustomerServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.CustomerServiceTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.FindAGiftTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.FindAGiftTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.FoundItOnAmazonTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.FoundItOnAmazonTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.FreeShippingTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.FreeShippingTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.GiftCardsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.GiftCardsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.HomePageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.HomePageTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.NewReleasesTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.NewReleasesTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.RegistryTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.RegistryTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.SellClassTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.SellClassTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.TodayDealTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.TodayDealTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.WholeFoodsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/junitreports/TEST-homeTest.WholeFoodsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/old/Surefire suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Amazon/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/New York Times Automation Test/New York Times Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/New York Times Automation Test/New York Times Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/New York Times Automation Test/New York Times Home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/New York Times Automation Test/New York Times Home.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/junitreports/TEST-homeTest.SearchClassTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/junitreports/TEST-homeTest.SearchClassTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/old/New York Times Automation Test/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/old/New York Times Automation Test/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/old/New York Times Automation Test/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/old/New York Times Automation Test/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/NewYorkTimes/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/Surefire suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/Surefire suite/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/junitreports/TEST-homeTest.AccountTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/junitreports/TEST-homeTest.AccountTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/junitreports/TEST-homeTest.SearchBoxTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/junitreports/TEST-homeTest.SearchBoxTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/junitreports/TEST-homeTest.ShoppingCardTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/junitreports/TEST-homeTest.ShoppingCardTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/old/Surefire suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/TMobile/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/surefire-reports/TEST-hoemTest.searchBoxTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/surefire-reports/TEST-hoemTest.searchBoxTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/surefire-reports/hoemTest.searchBoxTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/surefire-reports/hoemTest.searchBoxTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/Wlmart/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrameWork_Practice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameWork_Practice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LearnAutomation_WeekendAfternoon_Selenium_NY_Summer2020" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnAutomation_WeekendAfternoon_Selenium_NY_Summer2020" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LearnJava_WeekendAfternoon_Selenium_NY_Summer2020" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava_WeekendAfternoon_Selenium_NY_Summer2020" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LearnMethod" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnMethod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LearnWebAutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnWebAutomationFramework_WeekendAfternoon_Selenium_NY_Summer2020" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MidTerm_WeekendAfternoon_Selenium_NY_Summer2020" beforeDir="false" afterPath="$PROJECT_DIR$/../MidTerm_WeekendAfternoon_Selenium_NY_Summer2020" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sunday" beforeDir="false" afterPath="$PROJECT_DIR$/../Sunday" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAutomationFramework_Team1" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/src/test/resources/EbayRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/src/test/resources/EbayRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/TestSuite.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/TestSuite/Ebay Home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/TestSuite/Ebay Home.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/TestSuite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/TestSuite/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/bullet_point.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/bullet_point.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/collapseall.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/collapseall.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/failed.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/failed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/jquery-3.4.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/junitreports/TEST-homeTest.HomeClassTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/junitreports/TEST-homeTest.MotorsClassTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/junitreports/TEST-regressionTest.BrokenLinksTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/junitreports/TEST-homeTest.HomePageTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/junitreports/TEST-regressionTest.DragAndDropClassTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/junitreports/TEST-regressionTest.IFrameClassTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/junitreports/TEST-regressionTest.NewWindowClassTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/navigator-bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/navigator-bullet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/old/TestSuite/Ebay Home.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/old/TestSuite/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/old/TestSuite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/old/TestSuite/groups.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/old/TestSuite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/old/TestSuite/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/old/TestSuite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/old/TestSuite/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/old/TestSuite/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/old/TestSuite/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/old/TestSuite/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/old/TestSuite/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/old/TestSuite/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/old/TestSuite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/old/TestSuite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/passed.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/passed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/skipped.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/skipped.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/testng-reports.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/testng-reports.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire-reports/testng.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework_Seven_Eleven/SevenEleven/target/surefire-reports/testng.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire/surefire6584652625401011331tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire/surefire_014358777801971517827tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/surefire/surefirebooter14005931653494267967.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/test-classes/EbayRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../general_Automation_Framework/Ebay/target/test-classes/EbayRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../general_Automation_Framework/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../general_Automation_Framework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../general_Automation_Framework/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Twitter/secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Twitter/secret.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Twitter/src/main/java/tweet/TweetAPIClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Twitter/src/main/java/tweet/TweetAPIClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Twitter/src/test/java/tweetAPIClientTest/TweetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Twitter/src/test/java/tweetAPIClientTest/TweetTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -462,7 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Twitter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -479,7 +75,24 @@
       <recent name="$PROJECT_DIR$/Twitter" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TweetTest.TestCreateTweet">
+  <component name="RunManager" selected="TestNG.TweetTest">
+    <configuration name="TweetTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tweetAPIClientTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tweetAPIClientTest" />
+      <option name="MAIN_CLASS_NAME" value="tweetAPIClientTest.TweetTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TweetTest.TestCreateTweet" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Twitter" />
       <extension name="coverage">
@@ -498,7 +111,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TweetTest.testGetTweet5" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TweetTest.TestReTweet" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Twitter" />
       <extension name="coverage">
         <pattern>
@@ -508,25 +121,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="tweetAPIClientTest" />
       <option name="MAIN_CLASS_NAME" value="tweetAPIClientTest.TweetTest" />
-      <option name="METHOD_NAME" value="testGetTweet5" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TweetTest.testGetTweet6" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Twitter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tweetAPIClientTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tweetAPIClientTest" />
-      <option name="MAIN_CLASS_NAME" value="tweetAPIClientTest.TweetTest" />
-      <option name="METHOD_NAME" value="testGetTweet6" />
+      <option name="METHOD_NAME" value="TestReTweet" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -572,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TweetTest" />
+        <item itemvalue="TestNG.TweetTest.TestReTweet" />
         <item itemvalue="TestNG.TweetTest.TestCreateTweet" />
         <item itemvalue="TestNG.TweetTest.testGetTweet9" />
         <item itemvalue="TestNG.TweetTest.testGetTweet8" />
-        <item itemvalue="TestNG.TweetTest.testGetTweet6" />
-        <item itemvalue="TestNG.TweetTest.testGetTweet5" />
       </list>
     </recent_temporary>
   </component>
@@ -619,33 +214,37 @@
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
     <state x="700" y="292" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1042@0.23.1792.1042" timestamp="1601059490890" />
-    <state width="1750" height="462" key="GridCell.Tab.0.bottom" timestamp="1601103290455">
-      <screen x="0" y="23" width="1792" height="1041" />
+    <state width="1262" height="208" key="GridCell.Tab.0.bottom" timestamp="1601147915210">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
+    <state width="1262" height="208" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1601147915210" />
     <state width="1388" height="7" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601052400454" />
     <state width="1750" height="462" key="GridCell.Tab.0.bottom/0.23.1792.1041@0.23.1792.1041" timestamp="1601103290455" />
     <state width="1515" height="284" key="GridCell.Tab.0.bottom/0.23.1792.1042@0.23.1792.1042" timestamp="1601084897049" />
     <state width="1628" height="401" key="GridCell.Tab.0.bottom/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601058361157" />
     <state width="1028" height="81" key="GridCell.Tab.0.bottom/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846424" />
-    <state width="1750" height="462" key="GridCell.Tab.0.center" timestamp="1601103290455">
-      <screen x="0" y="23" width="1792" height="1041" />
+    <state width="1262" height="208" key="GridCell.Tab.0.center" timestamp="1601147915202">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
+    <state width="1262" height="208" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1601147915202" />
     <state width="1388" height="7" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601052400453" />
     <state width="1750" height="462" key="GridCell.Tab.0.center/0.23.1792.1041@0.23.1792.1041" timestamp="1601103290455" />
     <state width="1515" height="284" key="GridCell.Tab.0.center/0.23.1792.1042@0.23.1792.1042" timestamp="1601084897048" />
     <state width="1628" height="401" key="GridCell.Tab.0.center/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601058361155" />
     <state width="1028" height="81" key="GridCell.Tab.0.center/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846423" />
-    <state width="1750" height="462" key="GridCell.Tab.0.left" timestamp="1601103290455">
-      <screen x="0" y="23" width="1792" height="1041" />
+    <state width="1262" height="208" key="GridCell.Tab.0.left" timestamp="1601147915183">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
+    <state width="1262" height="208" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1601147915183" />
     <state width="1388" height="7" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601052400453" />
     <state width="1750" height="462" key="GridCell.Tab.0.left/0.23.1792.1041@0.23.1792.1041" timestamp="1601103290455" />
     <state width="1515" height="284" key="GridCell.Tab.0.left/0.23.1792.1042@0.23.1792.1042" timestamp="1601084897048" />
     <state width="1628" height="401" key="GridCell.Tab.0.left/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601058361154" />
     <state width="1028" height="81" key="GridCell.Tab.0.left/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846422" />
-    <state width="1750" height="462" key="GridCell.Tab.0.right" timestamp="1601103290455">
-      <screen x="0" y="23" width="1792" height="1041" />
+    <state width="1262" height="208" key="GridCell.Tab.0.right" timestamp="1601147915203">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
+    <state width="1262" height="208" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1601147915203" />
     <state width="1388" height="7" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601052400454" />
     <state width="1750" height="462" key="GridCell.Tab.0.right/0.23.1792.1041@0.23.1792.1041" timestamp="1601103290455" />
     <state width="1515" height="284" key="GridCell.Tab.0.right/0.23.1792.1042@0.23.1792.1042" timestamp="1601084897049" />

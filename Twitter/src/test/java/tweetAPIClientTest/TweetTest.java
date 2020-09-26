@@ -22,8 +22,7 @@ public class TweetTest {
 
     @Test
     public void TestCreateTweet(){
-        //String tweet="We are learning RestAPI Automation"+ UUID.randomUUID().toString();
-        String tweet="Practice again again"+UUID.randomUUID().toString();
+        String tweet="Hello"+UUID.randomUUID().toString();
         response= this.tweetAPIClient.createTweet(tweet);
         //Verify that tweet was successful
         response.statusCode(200);
@@ -36,7 +35,7 @@ public class TweetTest {
     @Test
     public void TestCreateTweet1(){
         //String tweet="We are learning RestAPI Automation"+ UUID.randomUUID().toString();
-        String tweet="tomorrow is a boot camp day"+UUID.randomUUID().toString();
+        String tweet="web-automation"+UUID.randomUUID().toString();
         response= this.tweetAPIClient.createTweet(tweet);
         //Verify that tweet was successful
         response.statusCode(200);
@@ -49,7 +48,7 @@ public class TweetTest {
     @Test
     public void TestCreateTweet2(){
         //String tweet="We are learning RestAPI Automation"+ UUID.randomUUID().toString();
-        String tweet="the election day is november 3rd"+UUID.randomUUID().toString();
+        String tweet="Learn Java Learn Automation"+UUID.randomUUID().toString();
         response= this.tweetAPIClient.createTweet(tweet);
         //Verify that tweet was successful
         response.statusCode(200);
@@ -62,7 +61,7 @@ public class TweetTest {
     @Test
     public void TestCreateTweet3(){
         //String tweet="We are learning RestAPI Automation"+ UUID.randomUUID().toString();
-        String tweet="Zidane is one of the best soccer players is history"+UUID.randomUUID().toString();
+        String tweet="Data type"+UUID.randomUUID().toString();
         response= this.tweetAPIClient.createTweet(tweet);
         //Verify that tweet was successful
         response.statusCode(200);
@@ -75,7 +74,7 @@ public class TweetTest {
     @Test
     public void TestCreateTweet4(){
         //String tweet="We are learning RestAPI Automation"+ UUID.randomUUID().toString();
-        String tweet="the starts are winning against the lightning 3-2"+UUID.randomUUID().toString();
+        String tweet="Jamaica NY"+UUID.randomUUID().toString();
         response= this.tweetAPIClient.createTweet(tweet);
         //Verify that tweet was successful
         response.statusCode(200);
@@ -88,7 +87,7 @@ public class TweetTest {
     @Test
     public void TestCreateTweet5(){
         //String tweet="We are learning RestAPI Automation"+ UUID.randomUUID().toString();
-        String tweet="summer is over but the temperatures still a little high"+UUID.randomUUID().toString();
+        String tweet="Miss my country"+UUID.randomUUID().toString();
         response= this.tweetAPIClient.createTweet(tweet);
         //Verify that tweet was successful
         response.statusCode(200);
@@ -101,7 +100,7 @@ public class TweetTest {
     @Test
     public void TestCreateTweet6(){
         //String tweet="We are learning RestAPI Automation"+ UUID.randomUUID().toString();
-        String tweet="covid19 has changed the world"+UUID.randomUUID().toString();
+        String tweet="Flying rabbit"+UUID.randomUUID().toString();
         response= this.tweetAPIClient.createTweet(tweet);
         //Verify that tweet was successful
         response.statusCode(200);
@@ -114,7 +113,7 @@ public class TweetTest {
     @Test
     public void TestCreateTweet7(){
         //String tweet="We are learning RestAPI Automation"+ UUID.randomUUID().toString();
-        String tweet="the total deaths from the covid19 has surpassed 200,000"+UUID.randomUUID().toString();
+        String tweet="Roar....."+UUID.randomUUID().toString();
         response= this.tweetAPIClient.createTweet(tweet);
         //Verify that tweet was successful
         response.statusCode(200);
@@ -127,7 +126,7 @@ public class TweetTest {
     @Test
     public void TestCreateTweet8(){
         //String tweet="We are learning RestAPI Automation"+ UUID.randomUUID().toString();
-        String tweet="masks and hand sanitizer become essential items to have in your backpack"+UUID.randomUUID().toString();
+        String tweet="working for last 18 hours non-stop"+UUID.randomUUID().toString();
         response= this.tweetAPIClient.createTweet(tweet);
         //Verify that tweet was successful
         response.statusCode(200);
@@ -140,7 +139,7 @@ public class TweetTest {
     @Test
     public void TestCreateTweet9(){
         //String tweet="We are learning RestAPI Automation"+ UUID.randomUUID().toString();
-        String tweet="make sure you wash your hands very often, and every time you touch something"+UUID.randomUUID().toString();
+        String tweet="so tired....."+UUID.randomUUID().toString();
         response= this.tweetAPIClient.createTweet(tweet);
         //Verify that tweet was successful
         response.statusCode(200);
@@ -156,69 +155,69 @@ public class TweetTest {
 
     @Test
     public void TestReplyTweet(){
-        String replyTweet="yes wash your hands as much as your can"+UUID.randomUUID().toString();
-        response= this.tweetAPIClient.replyTweet(replyTweet);
+        String replyTweet="reply 1"+UUID.randomUUID().toString();
+        response= this.tweetAPIClient.replyTweet(replyTweet, "1309553409826140161");
         response.statusCode(200);
 
     }
     @Test
     public void TestReplyTweet1(){
-        String replyTweet="yes absolutely "+UUID.randomUUID().toString();
-        response= this.tweetAPIClient.replyTweet(replyTweet);
+        String replyTweet="reply 2"+UUID.randomUUID().toString();
+        response= this.tweetAPIClient.replyTweet(replyTweet, "1309553409826140161");
         response.statusCode(200);
     }
     @Test
     public void TestReplyTweet2(){
-        String replyTweet="this is scary for real"+UUID.randomUUID().toString();
-        response= this.tweetAPIClient.replyTweet(replyTweet);
+        String replyTweet="reply 3"+UUID.randomUUID().toString();
+        response= this.tweetAPIClient.replyTweet(replyTweet, "1309553409826140161");
         response.statusCode(200);
     }
     @Test
     public void TestReplyTweet3(){
-        String replyTweet="yes the world has changed"+UUID.randomUUID().toString();
-        response= this.tweetAPIClient.replyTweet(replyTweet);
+        String replyTweet="reply 4"+UUID.randomUUID().toString();
+        response= this.tweetAPIClient.replyTweet(replyTweet, "1309553409826140161");
         response.statusCode(200);
     }
     @Test
     public void TestReplyTweet4(){
-        String replyTweet="i am gonna miss the beach and riding my bike"+UUID.randomUUID().toString();
-        response= this.tweetAPIClient.replyTweet(replyTweet);
+        String replyTweet="reply 5"+UUID.randomUUID().toString();
+        response= this.tweetAPIClient.replyTweet(replyTweet, "1309553409826140161");
         response.statusCode(200);
     }
     @Test
     public void TestReplyTweet5(){
-        String replyTweet="just wait till the end, the canadians are coming back"+UUID.randomUUID().toString();
-        response= this.tweetAPIClient.replyTweet(replyTweet);
+        String replyTweet="jreply 6"+UUID.randomUUID().toString();
+        response= this.tweetAPIClient.replyTweet(replyTweet, "1309553409826140161");
         response.statusCode(200);
     }
     @Test
     public void TestReplyTweet6(){
-        String replyTweet="oh yes i agree"+UUID.randomUUID().toString();
-        response= this.tweetAPIClient.replyTweet(replyTweet);
+        String replyTweet="reply 7"+UUID.randomUUID().toString();
+        response= this.tweetAPIClient.replyTweet(replyTweet, "1309553409826140161");
         response.statusCode(200);
     }
     @Test
     public void TestReplyTweet7(){
-        String replyTweet="yes in less than 2 months"+UUID.randomUUID().toString();
-        response= this.tweetAPIClient.replyTweet(replyTweet);
+        String replyTweet="reply 8"+UUID.randomUUID().toString();
+        response= this.tweetAPIClient.replyTweet(replyTweet, "1309553409826140161");
         response.statusCode(200);
     }
     @Test
     public void TestReplyTweet8(){
-        String replyTweet="i need some sleep ia m tired"+UUID.randomUUID().toString();
-        response= this.tweetAPIClient.replyTweet(replyTweet);
+        String replyTweet="reply 9"+UUID.randomUUID().toString();
+        response= this.tweetAPIClient.replyTweet(replyTweet, "1309553409826140161");
         response.statusCode(200);
     }
     @Test
     public void TestReplyTweet9(){
-        String replyTweet="yes in less than 2 months"+UUID.randomUUID().toString();
-        response= this.tweetAPIClient.replyTweet(replyTweet);
+        String replyTweet="reply 10"+UUID.randomUUID().toString();
+        response= this.tweetAPIClient.replyTweet(replyTweet, "1309553409826140161");
         response.statusCode(200);
     }
     @Test
     public void TestReplyTweet10(){
         String replyTweet="very interesting topic for the QA"+UUID.randomUUID().toString();
-        response= this.tweetAPIClient.replyTweet(replyTweet);
+        response= this.tweetAPIClient.replyTweet(replyTweet, "1309553409826140161");
         response.statusCode(200);
     }
 
@@ -227,14 +226,14 @@ public class TweetTest {
     @Test
     public void TestReTweet(){
 //        String replyTweet="We are Learning Reply Tweet"+UUID.randomUUID().toString();
-        response= this.tweetAPIClient.reTweet();
+        response= this.tweetAPIClient.reTweet(1309787318988034048l);
         response.statusCode(200);
 
     }
 
     @Test
     public void testDelete(){
-        String tweet="Practice again again4f1b822b-1b69-42b3-8be9-06449e507ece";
+        String tweet="so tired.....7f3dad2e-c5d9-4f15-90ce-439c1fb9b671";
         ValidatableResponse response=this.tweetAPIClient.deleteTweet(1309547525922107393l);
 // Verify that the tweet was successfully deleted
         response.statusCode(200);

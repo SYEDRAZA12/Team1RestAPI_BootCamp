@@ -19,7 +19,7 @@ public class TweetAPIClient extends CommonAPI {
 
     private final String LOOKUP_USER_TWEET_ENDPOINT="/statuses/lookup.json";
 
-    private final String RETWEET_USER_TWEET_ENDPOINT="statuses/retweet/1306802875448795136.json";
+    private final String RETWEET_USER_TWEET_ENDPOINT="statuses/retweet/:id.json";
 
 
 
@@ -34,11 +34,12 @@ public class TweetAPIClient extends CommonAPI {
 
     // Reply to the Tweet
 
-    public ValidatableResponse replyTweet(String replyTweet){
+    public ValidatableResponse replyTweet(String replyTweet, String ID){
 
         return given().auth().oauth(apiKey,apiSecretKey,accessToken,accessTokenSecret)
                 .param("status", replyTweet)
-                .param("in_reply_to_status_id","1309378350012604417")
+                .param("in_reply_to_status_id",ID)
+//                .param("in_reply_to_status_id","1309378350012604417")
                 .when().post(baseUrl + REPLY_USER_TWEET_ENDPOINT)
                 .then();
 
@@ -55,12 +56,14 @@ public class TweetAPIClient extends CommonAPI {
 
 
 
-    public ValidatableResponse reTweet() {
+    public ValidatableResponse reTweet(Long reTweetId) {
 
 
         return  given().auth().oauth(apiKey,apiSecretKey,accessToken,accessTokenSecret)
 //                .param("status", reTweet)
 //                .param("id",reTweet)
+                .queryParam("id", reTweetId)
+                .pathParam("id.json", reTweetId)
                 .when().post(baseUrl + RETWEET_USER_TWEET_ENDPOINT)
                 .then();
 
