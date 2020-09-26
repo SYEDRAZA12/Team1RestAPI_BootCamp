@@ -129,19 +129,6 @@
       <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/utility/ReadExcel.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticeBDD/Generic/src/main/java/utility/WriteExcelFile.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticeBDD/PracticeBDD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twitter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twitter/secret.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twitter/src/main/java/tweet/TweetAPIClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twitter/src/test/java/tweetAPIClientTest/TweetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Amazon/target/Amazon-1.0-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon/target/classes/search/SearchPage$2.class" afterDir="false" />
@@ -205,6 +192,9 @@
       <change beforePath="$PROJECT_DIR$/../Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Twitter/src/test/java/tweetAPIClientTest/TweetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Twitter/src/test/java/tweetAPIClientTest/TweetTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +209,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -254,7 +245,7 @@
       <recent name="$PROJECT_DIR$/Twitter" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TweetTest.testLookUpTweet">
+  <component name="RunManager" selected="TestNG.TweetTest.TestCreateTweet">
     <configuration name="TweetTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Twitter" />
       <extension name="coverage">
@@ -346,11 +337,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TweetTest.TestCreateTweet" />
         <item itemvalue="TestNG.TweetTest.testLookUpTweet" />
         <item itemvalue="TestNG.TweetTest" />
         <item itemvalue="TestNG.TweetTest.testGetTweet" />
         <item itemvalue="TestNG.TweetTest.testDelete" />
-        <item itemvalue="TestNG.TweetTest.TestCreateTweet" />
       </list>
     </recent_temporary>
   </component>
@@ -374,34 +365,34 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="556" y="404" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1600310977071" />
-    <state width="1628" height="401" key="GridCell.Tab.0.bottom" timestamp="1601058361157">
+    <state width="1628" height="519" key="GridCell.Tab.0.bottom" timestamp="1601086188258">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1388" height="7" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601052400454" />
-    <state width="1628" height="401" key="GridCell.Tab.0.bottom/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601058361157" />
+    <state width="1628" height="519" key="GridCell.Tab.0.bottom/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601086188258" />
     <state width="1028" height="81" key="GridCell.Tab.0.bottom/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846424" />
-    <state width="1628" height="401" key="GridCell.Tab.0.center" timestamp="1601058361155">
+    <state width="1628" height="519" key="GridCell.Tab.0.center" timestamp="1601086188257">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1388" height="7" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601052400453" />
-    <state width="1628" height="401" key="GridCell.Tab.0.center/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601058361155" />
+    <state width="1628" height="519" key="GridCell.Tab.0.center/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601086188257" />
     <state width="1028" height="81" key="GridCell.Tab.0.center/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846423" />
-    <state width="1628" height="401" key="GridCell.Tab.0.left" timestamp="1601058361154">
+    <state width="1628" height="519" key="GridCell.Tab.0.left" timestamp="1601086188256">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1388" height="7" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601052400453" />
-    <state width="1628" height="401" key="GridCell.Tab.0.left/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601058361154" />
+    <state width="1628" height="519" key="GridCell.Tab.0.left/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601086188256" />
     <state width="1028" height="81" key="GridCell.Tab.0.left/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846422" />
-    <state width="1628" height="401" key="GridCell.Tab.0.right" timestamp="1601058361156">
+    <state width="1628" height="519" key="GridCell.Tab.0.right" timestamp="1601086188258">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1388" height="7" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601052400454" />
-    <state width="1628" height="401" key="GridCell.Tab.0.right/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601058361156" />
+    <state width="1628" height="519" key="GridCell.Tab.0.right/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601086188258" />
     <state width="1028" height="81" key="GridCell.Tab.0.right/1680.23.1080.787/0.23.1680.1027@1680.23.1080.787" timestamp="1601052846423" />
-    <state x="250" y="216" key="IDE.errors.dialog" timestamp="1600312766858">
+    <state x="250" y="216" key="IDE.errors.dialog" timestamp="1601104917025">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="250" y="216" key="IDE.errors.dialog/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1600312766858" />
+    <state x="250" y="216" key="IDE.errors.dialog/1680.23.1080.787/0.23.1680.1027@0.23.1680.1027" timestamp="1601104917025" />
     <state x="262" y="116" key="Maven.ArtifactSearchDialog" timestamp="1600312446616">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
